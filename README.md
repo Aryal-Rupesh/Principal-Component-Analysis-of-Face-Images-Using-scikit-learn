@@ -1,0 +1,1 @@
+This repository demonstrates Principal Component Analysis (PCA) on face images using scikit-learn. Images are loaded, preprocessed (grayscale, resized, flattened), normalized, and decomposed into eigenfaces. It showcases the eigenfaces and a reconstructed example, illustrating how PCA preserves essential features while reducing dimensionality.
